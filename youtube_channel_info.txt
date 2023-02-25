@@ -2,80 +2,62 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
-CCTV4 | China |  |
+央视4 | 中国 | |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
+4K | 4k | |
+https://www.youtube.com/watch?v=U3XaV66qpBE
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
+4K | 4k | |
+https://www.youtube.com/watch?v=G_cwVXzob_A
 
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
+下雨声 | 下雨声 | |
+https://www.youtube.com/watch?v=dA1hotYS2kQ
 
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
+下雨声 | 下雨声 | |
+https://www.youtube.com/watch?v=-ERFwSSqg1Y
 
 中天新闻 |台湾||
 https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-TVBS |台湾||
+TVBS 55台|台湾||
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-台視新聞台 |台湾||
+TVBS 56台|台湾||
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+台湾新闻台|台湾||
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-三立海外直播 |台湾||
+三立海外直播|台湾||
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-中視新聞 |台湾||
+中视新闻 |台湾||
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-寰宇新聞台 |台湾||
+対宇新闻台|台湾||
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
+凤凰卫视资讯台|香港||
+https://www.youtube.com/watch?v=dmDg7NfUoSw
 
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
-
-三立新闻 |台湾||
+三立新闻|台湾||
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-東森新聞  |台湾||
+东森新闻|台湾||
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-東森財經新聞  |台湾||
+东森财经新闻|台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
-
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+天才冲冲|台湾||
+https://www.youtube.com/watch?v=pn_0gm9gztM
+ 
+华视新闻直播|台湾||
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+ 
+民视新闻直播|台湾||
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+ 
+镜新闻 |台湾||
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 
