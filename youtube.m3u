@@ -15,13 +15,13 @@
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 4K直播
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737245705/ei/qe-LZ9WaC-mKkucPl_qV6Q0/ip/20.161.77.226/id/fjbfzbu8-Ic.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-O1lwdI74Sgsc2EnSQsCfwJKCgjk_m3YMo6TLLUIjyRmjEHeFxc5JdnFpanS8kI8JIqzGSDSlNV/spc/9kzgDQVmmGTTrIblZflVJcA0wpyzWLAaYyp0m0OtsyIcPz2nP2GmHZDZmNS1Sao/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW5wuGtxmbh4RbCNklC4jls-aR2iRHacDV1Sd611tE_YCIDaUI0XTzayi1JbhK7oXKeNaSEXCTsC0meLaySHUiTi6/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 美丽轻松平静的音乐
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737245706/ei/qu-LZ-D1Ib-AkucPq6_L8Qc/ip/20.161.77.226/id/dXIyMS61B68.13/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51369428/txs/51369426%2C51369427%2C51369428%2C51369429%2C51369430%2C51369431%2C51369432%2C51369433%2C51369434/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-P_xB-8NZRBCVfTpDg6Ht3qqjbL-E7aIup3VE9VZQh7aAyBMT1jJOJdX_S0pssFb2ijWi089hHz/spc/9kzgDWrQ2Ltk4h6gN7-dKsCl-c3y0Eo3BAUskyWqI-4Yx16HEZ_l_cuTYnmR-7o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOWqnamZ9Gu3Qit0M7tbz67IYBgzlcu9eHIsPWdSyrz5AiAzohzhEeZYmBZIWYVoDuE5wPvnD5RYq8Tk4PNO019f3g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 雨声和雷声 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737245707/ei/q--LZ9-vE6KKkucPp83e8AE/ip/20.161.77.226/id/mBDmaYgNXIc.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51369432/txs/51369426%2C51369427%2C51369428%2C51369429%2C51369430%2C51369431%2C51369432%2C51369433%2C51369434/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY2Et-NqFCSHbtJyomOLFcHRQfOTJBSLFZd8w5dQSehpcbWjN71hmMki0m2dOb-aaQ8JL1tYU5-q2chc/spc/9kzgDRnL-SbvC4wkQ6ifEqs2f8gjhb8eMQ9BuQbWKM_P1ASEFPOBHS-nzeNrirQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJx9OWW4blHk9Va2mhbUUKWSMCn20hQ30ZUnGVGtJvybAiEA1sX_SepD-1eH1YgPX46vKbUMAL4shIqvXkPJ1CGgKXI%3D/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 4K 壁炉（24/7 直播）
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 大愛一臺HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737245710/ei/ru-LZ6HtM-mKkucPl_qV6Q0/ip/20.161.77.226/id/MIqUplvSRWA.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-M2TyinGyFMDq-rpFqCZOc3zpTHZFz0-6b4gGD1iDKZ90QvPMiTDbNbuqb13FPUsuk09L5CTxPh/spc/9kzgDW7Zm98I67aPfZgsEgKgHMVF9_uN6LV9ziEM1436jJo_N1B9CF2YrLtXhGM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgf7pDGXGxBQCV1O6u6XqmGmKgJMVpo24ecilkXb8x4eYCIQCtc2bQsi_knUPW4zsn75IMuW9S8HgFv-jkaYy1srQGTg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 大愛二臺HD
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
