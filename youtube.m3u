@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 民视新闻直播
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737947467/ei/66SWZ_i-Dta8sfIP-ZfqyQ0/ip/52.234.46.150/id/ylYJSBUgaMA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51369430/txs/51369426%2C51369427%2C51369428%2C51369429%2C51369430%2C51369431%2C51369432%2C51369433%2C51369434/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-O6DNK8UdEWEJIUBFUDOIYcb8LQ3e6AIClbyg196MwgF7QTd-G75cgN9bhL81zCHt1yMiHV8bZ6/spc/9kzgDc7zAISiyfVQDu0p4GnkGqTrjSl0xhJQFyMFiCr_IaooRIkilN3mBvBDi6k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJUS_RfxizzvJlSEP6SFObf8K6fDf1EQUhm6eIeEpzAUCIHHY1vvYkyhO29cClLPSee7vKl1PSVj1UebQLhfbvBio/file/index.m3u8
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 寰宇新闻台
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", 放松音乐缓解压力
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737947487/ei/_6SWZ7y4EozDsfIPh_2-mAc/ip/52.234.46.150/id/4HVqC4zEPDc.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-Orex2Sc8wIdMknnNZn0bwRMRmNH5dsaM78PnjgTTUbt7g6oYWzitbqRRTuU1l_nvLedDQaSesH/spc/9kzgDVbPXPSKg8Ad80uYWMc7eIeGiBjqZgUUTroiRUw0_6YdV5Fx0qU2_KjU2bU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALIzwE1ZFS3jA5zkwrR7_NQxAEbgVcFAqC9x-zND1jUWAiEAzOC9yzy1J5DGB6QN-bpGhDN0yaNTimDNAXxx6jCjwgM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="中国" tvg-logo="" tvg-id="", Calm & Relaxing Background Music
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
